@@ -1,0 +1,32 @@
+{
+  "productList": [
+    {
+      "productName": "Samsung A52s",
+      "category": "Electronics",
+      "freshness": "Seconde main",
+      "price": 298,
+      "comment": "Bon état général du smartphone.",
+      "date": "2022-04-09T22:00:00.000Z",
+      "id": 1
+    },
+    {
+      "productName": "Les Concombres",
+      "category": "Vegetables",
+      "freshness": "Premiere main",
+      "price": 1.25,
+      "comment": "Mangez des légumes !",
+      "date": "2022-04-09T22:00:00.000Z",
+      "id": 4
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
